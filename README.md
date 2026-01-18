@@ -1,10 +1,10 @@
-A simple Voice Command Assistant
+# A simple Voice Command Assistant
 
-Jarvis is a simple yet powerful voice-controlled assistant built with Python. It can recognize your voice commands, speak back to you, and perform actions like opening popular websites or playing songs from a custom music library.
+- Jarvis is a simple yet powerful voice-controlled assistant built with Python. It can recognize your voice commands, speak back to you, and perform actions like opening popular websites or playing songs from a custom music library.
 
-This project is a great way to explore speech recognition, text-to-speech, and real-time interactivity using Python.
+- This project is a great way to explore speech recognition, text-to-speech, and real-time interactivity using Python.
 
-Here are some of features of Jarvis:
+## Here are some of features of Jarvis:
 - Listens for a wake word ("Jarvis") to activate
 
 - Opens websites like Google, YouTube, GitHub, Instagram, Facebook, and ChatGPT
